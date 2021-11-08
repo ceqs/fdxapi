@@ -6,6 +6,12 @@ info:
 servers:
   - url: 'https://api.fi.com/fdx/v4'
     description: Financial Data Exchange V4.1 API
+  - url: 'https://api.infinat.com/sanbox'
+    description: Sandbox API
+  - url: 'https://api.infinat.com/sanbox'
+    description: QA
+  - url: 'https://api.infinat.com/sanbox'
+    description: Test
 paths:
   /accounts:
     get:
