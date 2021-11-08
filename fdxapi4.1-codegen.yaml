@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   version: '4.1.0'
-  title: FDX V4.1 for CodeGen
+  title: Infinat API 1.0
   description: Financial Data Exchange V4.1 API modified to support codegen tools. See https://financialdataexchange.org/pages/fdx-api for more information.
 servers:
   - url: 'https://api.fi.com/fdx/v4'
